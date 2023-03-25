@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **React-based projects**
 
-- 🧠 In future, would like to get into **Back-end development**
-
 - 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
 
 - 🌱 I’m currently learning **Machine Learning, Next.js**
 
 - 💬 Ask me about **Java, React**
+
+- 🧠 In future, would like to get into **Back-end development**
 
 - 📫 How to reach me **imharshalashi333@gmail.com**
 
