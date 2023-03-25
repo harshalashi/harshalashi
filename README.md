@@ -29,9 +29,37 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+#### Languages
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalashi&show_icons=true&locale=en" alt="harshalashi" /></p>
+#### Front-end
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalashi&" alt="harshalashi" /></p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  
+
+#### Back-end
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+
+#### Other tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
+
+---
+
+### :star: My Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshalashi&theme=dracula)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalashi&layout=compact&theme=dracula)]()
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=harshalashi&show_icons=true&theme=dracula&include_all_commits&count_private)]()
+
 
