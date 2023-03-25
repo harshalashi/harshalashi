@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://github.com/harshalashi)
+[![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)](https://github.com/harshalashi)
 <h1 align="center">Hi 👋, I'm Harsh Alashi</h1>
 <h3 align="center">👨‍💻 A passionate frontend developer.</h3>
 
