@@ -1,8 +1,28 @@
 [![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)](https://github.com/harshalashi)
-<h1 align="center">Hi 👋, I'm Harsh Alashi</h1>
-<h3 align="center">👨‍💻 A passionate frontend developer.</h3>
+<h1 align="center">Hi <span class="wave">👋</span>, I'm Harsh Alashi</h1>
+  <styles>
+.wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalashi&label=Profile%20views&color=0e75b6&style=flat" alt="harshalashi" /> </p>
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}</styles>
+<h3 align="center">👨‍💻 A passionate frontend developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/alashiharsh" target="blank"><img src="https://img.shields.io/twitter/follow/alashiharsh?logo=twitter&style=for-the-badge" alt="alashiharsh" /></a> </p>
 
