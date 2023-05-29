@@ -3,15 +3,13 @@
  
 <h3 align="center">👨‍💻 A passionate frontend developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/alashiharsh" target="blank"><img src="https://img.shields.io/twitter/follow/alashiharsh?logo=twitter&style=for-the-badge" alt="alashiharsh" /></a> </p>
-
-- 🔭 I’m currently working on **React-based projects**
+- 🔭 I’m currently working on **Reactjs Projects**
 
 - 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
 
-- 🌱 I’m currently learning **Machine Learning, Next.js**
+- 🌱 I’m currently learning **Machine Learning, Node.js**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, Javascript**
 
 - 🧠 In future, would like to get into **Back-end development**
 
