@@ -3,7 +3,9 @@
  
 <h3 align="center">👨‍💻 A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **Reactjs Projects**
+
+
+- 🔭 I’m currently working on **React.js Projects**
 
 - 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
 
