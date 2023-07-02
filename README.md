@@ -57,6 +57,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" title="Firebase" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAlashi&theme=tokyonight)
 
 ### :star: My Stats
 
