@@ -1,14 +1,12 @@
 [![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)](https://github.com/harshalashi)
 <h1 align="center">Hi 👋, I'm Harsh Alashi</h1>
  
-<h3 align="center">👨‍💻 A passionate frontend developer.</h3>
+<h3 align="center">👨‍💻 A passionate frontend developer.
+<div> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalashi)
+  [![Resume Badge](https://img.shields.io/badge/Resume-%E2%86%93-red?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1QDd95QWmUvxNTt21nsOSqbKCxz_p8Y8_/view?usp=sharing)</div>
+</h3>
 <br/>
 
-
-<div id="badges" align="center">
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalashi)
-  [![Resume Badge](https://img.shields.io/badge/Resume-%E2%86%93-red?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1QDd95QWmUvxNTt21nsOSqbKCxz_p8Y8_/view?usp=sharing)
-</div>
 
 
 - 🔭 I’m currently exploring & working on **React.js and Next.js** Projects
