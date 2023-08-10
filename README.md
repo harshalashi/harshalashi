@@ -3,9 +3,11 @@
  
 <h3 align="center">👨‍💻 A passionate frontend developer.
 
-<br/>
-
+<p>
+  
 [![Resume Badge](https://img.shields.io/badge/Resume-%E2%86%93-red?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1QDd95QWmUvxNTt21nsOSqbKCxz_p8Y8_/view?usp=sharing)
+</p>
+
  
 </h3>
 <br/>
