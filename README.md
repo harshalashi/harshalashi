@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Back-end Development**
 
-- 📫 How to reach me? 👉 **imharshalashi333@gmail.com**
+- 📫 How to reach me? 👉 **harshalashi8@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
