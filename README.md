@@ -1,7 +1,7 @@
 [![MasterHead](https://semidotinfotech.com/web/images/reactjs_banner.jpg)](https://github.com/harshalashi)
 <h1 align="center">Hi 👋, I'm Harsh Alashi</h1>
  
-<h3 align="center">👨‍💻 A passionate frontend developer.
+<h3 align="center">👨‍💻 A passionate software developer.
 
 <p>
   
